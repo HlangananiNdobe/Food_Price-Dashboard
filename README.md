@@ -1,2 +1,2 @@
-# Food_Price-Dashboard
+# Food_Price_Dashboard
 Excel Dashboard showing food price trends by country(2018-2022)
